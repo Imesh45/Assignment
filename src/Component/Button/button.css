@@ -1,0 +1,18 @@
+.Button{
+
+font-family: Circular Std;
+background: #818BE9;
+
+ border-radius: 10px;
+ width: max-content;
+  font-size: 13px;
+  padding: 4px 80px;
+  border-color: #818BE9;
+}
+
+.Button1{
+
+    background: #F8C16F;
+    border-color: #F8C16F;
+
+}
